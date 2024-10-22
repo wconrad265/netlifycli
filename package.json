@@ -161,6 +161,8 @@
     "parse-github-url": "1.0.3",
     "parse-gitignore": "2.0.0",
     "path-key": "4.0.0",
+    "pnpm": "^9.12.2",
+    "prettier": "^3.3.3",
     "prettyjson": "1.2.5",
     "pump": "3.0.2",
     "raw-body": "2.5.2",
