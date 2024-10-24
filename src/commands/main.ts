@@ -38,6 +38,7 @@ import { createSwitchCommand } from './switch/index.js'
 import { createUnlinkCommand } from './unlink/index.js'
 import { createWatchCommand } from './watch/index.js'
 import { AddressInUseError } from './types.js'
+
 const SUGGESTION_TIMEOUT = 1e4
 
 process.on('uncaughtException', async (err: AddressInUseError | Error) => {
